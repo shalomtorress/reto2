@@ -17,4 +17,12 @@ se abre una ventana de opciones en donde se da click en la opcion Git Bash Here
 
 al abrir Git se pega el comando python namefile.py 
 le damos enter y se ejecutara el comando 
+![](https://github.com/shalomtorress/reto2/blob/main/Captura%20de%20pantalla%20(5).png)
+## Terminal de windows 
+para ejecutar el codigo en la terminal toca abrir la terminal oprimiendo las teclas 
+`win + r`
+despues se pega el codigo y se oprime la tecla enter 
+
 ![](
+
+
