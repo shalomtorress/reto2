@@ -26,11 +26,14 @@ despues se pega el codigo y se oprime la tecla enter
 ![](https://github.com/shalomtorress/reto2/blob/main/Captura%20de%20pantalla%20(6).png)
 
 ## Visual studio
-al abrir visual code pegamos el codigo en el archivo y oprimimos en el boton de la derecha
+al abrir visual studio pegamos el codigo en el archivo y oprimimos en el boton de la derecha
 
 ![](https://github.com/shalomtorress/reto2/blob/main/Captura%20de%20pantalla%20(8).png)
 
 el comando ejecutado debe verse asi 
+
+![](https://github.com/shalomtorress/reto2/blob/main/Captura%20de%20pantalla%20(7).png)
+
 
 
 
