@@ -23,6 +23,10 @@ para ejecutar el codigo en la terminal toca abrir la terminal oprimiendo las tec
 `win + r`
 despues se pega el codigo y se oprime la tecla enter 
 
-![](
+![](https://github.com/shalomtorress/reto2/blob/main/Captura%20de%20pantalla%20(6).png)
+
+## Visual studio
+al abrir visual code pegamos el codigo en el archivo y oprimmos en el boton de la derecha 
+
 
 
